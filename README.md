@@ -1,5 +1,4 @@
 # Simple_Card_Android
-A very simple card for Android. Practice for Android Development for Beginners (Udacity: Make your own card))
 
 This repository is only a practice for User Interface Lesson (for EU Scholarship - Android Development for Beginners at Udacity).
 
