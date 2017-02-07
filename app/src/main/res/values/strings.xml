@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Card For My Sister</string>
+    <string name="sister_text" >To my lovely Sister</string>
+    <string name="inspiration_text">You are an Inspiration!!!!</string>
+    <string name="i_text">I</string>
+    <string name="you_text">You!!</string>
+    <string name="final_text">We will walk together till the end&#8230;</string>
+
+    <!-- Images Description -->
+    <string name="siblings">Girl and Boy (Siblings)</string>
+    <string name="heart">Heart</string>
+</resources>

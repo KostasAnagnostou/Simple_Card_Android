@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.kostas.cardformysister.MainActivity">
+
+    <ImageView
+        android:src="@drawable/siblings"
+        android:contentDescription="@string/siblings"
+        style="@style/BackGround" />
+
+    <TextView
+        android:id="@+id/sister_text"
+        android:text="@string/sister_text"
+        style="@style/SisterText" />
+
+    <TextView
+        android:id="@+id/centered_text"
+        android:text="@string/inspiration_text"
+        style="@style/InspirationText" />
+
+    <TextView
+        android:id="@+id/i_text"
+        android:text="@string/i_text"
+        style="@style/I"/>
+
+    <ImageView
+        android:id="@+id/heart_image"
+        android:src="@drawable/heart"
+        android:contentDescription="@string/heart"
+        style="@style/Love" />
+
+    <TextView
+        android:id="@+id/you_text"
+        android:text="@string/you_text"
+        style="@style/You" />
+
+    <TextView
+        android:id="@+id/together"
+        android:text="@string/final_text"
+        style="@style/FinalText" />
+
+</RelativeLayout>
