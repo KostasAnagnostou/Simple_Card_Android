@@ -2,7 +2,7 @@
 
 This repository is a practice test (Make Your Own Card) for User Interface Lesson (for EU Scholarship - Android Development for Beginners at Udacity).
 
-The main files for this static card are: 
+The main files (Android Studio) for this static card are: 
 1) activity_main.xml
 2) styles.xml
 3) strings.xml
